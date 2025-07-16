@@ -22,3 +22,7 @@ input, button {
 p {
     font-weight: bold;
 }
+
+#resultado7 {
+    white-space: pre-line;
+}
